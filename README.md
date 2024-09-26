@@ -1,1 +1,1 @@
-# Trendy-News-Website---ReactJS
+Trendy News is a modern news website built with React.js that provides users with real-time news updates across various categories such as Sports, Politics, Entertainment, Health, and Education. The website features a clean and responsive design, a navigation bar with category filters, a search functionality, and a section for trending news.# Trendy-News-Website---ReactJS
